@@ -265,6 +265,12 @@ a:hover {
         margin: 0 10px;
     }
 
+	
+     .myPicture {
+	 margin-top: 4rem;
+    }	
+	
+	
     .row {
         flex-direction: row;
         flex-wrap: wrap;
