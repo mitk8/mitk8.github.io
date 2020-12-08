@@ -242,6 +242,10 @@ a:hover {
 
 @media screen and (min-width: 800px) {
    
+	body {
+	padding-top: 85px;
+	}	
+	
     .main-header {
         display: flex;
         justify-content: space-between;
@@ -266,9 +270,7 @@ a:hover {
     }
 
 	
-     .myPicture {
-	 margin-top: 4rem;
-    }	
+    	
 	
 	
     .row {
